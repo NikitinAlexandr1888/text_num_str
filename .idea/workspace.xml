@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e98fad0a-d671-47b1-874e-3e58439ed465" name="Changes" comment="Add file_dict">
+    <list default="true" id="e98fad0a-d671-47b1-874e-3e58439ed465" name="Changes" comment="Add recording">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/string.py" beforeDir="false" afterPath="$PROJECT_DIR$/string.py" afterDir="false" />
     </list>
@@ -58,11 +58,20 @@
       <option name="project" value="LOCAL" />
       <updated>1704538001392</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add recording">
+      <option name="closed" value="true" />
+      <created>1705160201425</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705160201425</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add file_dict" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add file_dict" />
+    <MESSAGE value="Add recording" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add recording" />
   </component>
 </project>
